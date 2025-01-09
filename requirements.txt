@@ -1,0 +1,16 @@
+streamlit
+transformers
+tensorflow
+numpy
+pillow
+joblib
+scikit-learn
+torch  # Si vous utilisez PyTorch pour certains modèles
+matplotlib  # Si vous avez besoin d'afficher des graphiques
+pandas
+yfinance
+polygon-api-client
+fredapi
+requests
+spacy
+speech-recognition
